@@ -37,5 +37,5 @@ You can view the original Figma design here:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/turbo-yadro-website.git
+   git clone https://github.com/AslDeveloper07/turbo-uz.git
    cd turbo-yadro-website
